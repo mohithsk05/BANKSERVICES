@@ -18,7 +18,7 @@ public class BankAccount {
     }
 
     public static void main(String[] args) {
-        BankAccount acc = new BankAccount(6000);
+        BankAccount acc = new BankAccount(7000);
 
         System.out.println("Initial balance: " + acc.getBalance());
 
